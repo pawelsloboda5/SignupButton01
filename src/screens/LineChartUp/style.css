@@ -1,0 +1,35 @@
+.line-chart-up {
+  font-family: "Capsule Sans Text", sans-serif;
+  font-weight: 1000;
+  color: inherit;
+  text-decoration: none;
+  letter-spacing: 3.5px;
+  -webkit-box-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  padding: 0px 36px;
+  height: 48px;
+  min-width: 144px;
+  border-radius: 24px;
+  width: 10%;
+  cursor: pointer;
+  background: rgb(118, 97, 209);
+  animation-name: animation-fifjv8;
+  animation-duration: 3000ms;
+  animation-iteration-count: infinite;
+}
+
+.line-chart-up .vector {
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
